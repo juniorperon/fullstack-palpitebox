@@ -23,6 +23,7 @@ const Index = () => {
                     <p className = 'my-12 text-center'>
                         {data.message}
                     </p>
+                    
                 }   
                 </div>
     )

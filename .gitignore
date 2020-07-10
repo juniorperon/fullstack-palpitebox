@@ -1,1 +1,8 @@
 node_modules
+*.json
+*.js
+*.map
+*.hash
+github/Meu-projeto/
+*.js
+*.mp4
