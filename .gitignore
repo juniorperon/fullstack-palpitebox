@@ -1,8 +1,8 @@
 node_modules
-*.json
-*.js
+.next
 *.map
 *.hash
 github/Meu-projeto/
-*.js
+teoria
 *.mp4
+*.json
